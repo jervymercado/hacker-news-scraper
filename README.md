@@ -21,3 +21,11 @@ Example CSV content:
 Rank,Title,Link
 1,Models of European Metro Stations,http://stations.albertguillaumes.cat/
 2,macOS Tahoe is certified Unix 03 [pdf],https://www.opengroup.org/openbrand/certificates/1223p.pdf
+
+## Screenshots
+
+### Script Running
+![Hacker News Scraper Output](hackernews_scraper_output.png)
+
+### CSV File with Results
+![Hacker News CSV Output](hackernews_csv_output.png)
